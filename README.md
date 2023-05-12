@@ -7,7 +7,7 @@ Repository containing code for "Deploying FastAPI applications to Vercel".
 To run the application on your machine, clone this repository and install the dependencies:
 
 ```
-$ git clone https://github.com/... && cd fastapi-hacking-toeic-app
+$ git clone https://github.com/varum-techno/fastapi-hacking-toeic-app.git && cd fastapi-hacking-toeic-app
 ```
 
 Setup a virtual environment:
