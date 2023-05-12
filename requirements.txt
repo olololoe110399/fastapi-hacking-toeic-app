@@ -1,0 +1,6 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+fitbert==0.10.0
+torch>=1.1.0
+transformers>=2.1.1
+PyFunctional==1.2.0
