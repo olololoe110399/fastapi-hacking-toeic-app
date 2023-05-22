@@ -60,3 +60,6 @@ pyvenv.cfg
 share/
 include/
 VERSION
+.vercel
+
+.space
